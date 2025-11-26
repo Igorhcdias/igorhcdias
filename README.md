@@ -16,12 +16,3 @@ Sou estudante no **Inatel** e entusiasta de tecnologia. Atualmente estou focando
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-PowerBI" height="30" width="40" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
 </div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Igorhcdias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorhcdias&layout=compact&langs_count=7&theme=dracula"/>
-</div>
