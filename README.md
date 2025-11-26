@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá, eu sou o Igor! 👋
 
-<!--
-**Igorhcdias/igorhcdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante no **Inatel** e entusiasta de tecnologia. Atualmente estou focando meus estudos na transição para a área de **Análise de Dados** e **Desenvolvimento**.
 
-Here are some ideas to get you started:
+- 🔭 Trabalhando em: Projetos de UX e Lógica de Programação.
+- 🌱 Estudando: **Python**, **Power BI** e Estatística.
+- ⚡ Fato curioso: Adoro resolver problemas complexos transformando-os em passos simples.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Minhas Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Igor-PowerBI" height="30" width="40" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorhcdias&layout=compact&langs_count=7&theme=dracula"/>
+</div>
