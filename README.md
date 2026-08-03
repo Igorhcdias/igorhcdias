@@ -1,16 +1,15 @@
 ### Olá, eu sou o Igor! 👋
 
-Sou estudante no **Inatel** e entusiasta de tecnologia. Atualmente estou focando meus estudos na transição para a área de **Análise de Dados** e **Desenvolvimento**.
+Estudante de tecnologia no Inatel em busca de aprendizado constante nas áreas de Análise de Dados e Desenvolvimento.
 
-- 🔭 Trabalhando em: Projetos de UX e Lógica de Programação.
-- 🌱 Estudando: **Python**, **Power BI** e Estatística.
-- ⚡ Fato curioso: Adoro resolver problemas complexos transformando-os em passos simples.
+No meu dia a dia na faculdade, meu foco é fortalecer minha base analítica e de programação. Atualmente, meus principais objetos de estudo são:
 
----
+Lógica de Programação
 
-### 🛠️ Minhas Ferramentas
+Python
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-PowerBI" height="30" width="40" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
-</div>
+Power BI
+
+Desenvolvimento full stack
+
+Meu perfil é de alguém que adora desafios lógicos e acredita que a melhor forma de resolver um problema complexo é quebrando-o em passos simples.
